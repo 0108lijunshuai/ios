@@ -17,13 +17,13 @@
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>https://www.example.com/image.57×57.png</string>
+                    <string>https://raw.githubusercontent.com/0108lijunshuai/ios/master/logo1024.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>https://www.example.com/image.512×512.png</string>
+                    <string>https://raw.githubusercontent.com/0108lijunshuai/ios/master/logo1024.png</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -35,7 +35,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>协同办公</string>
+                <string>鍔炲叕</string>
             </dict>
         </dict>
     </array>
